@@ -1,6 +1,6 @@
 ### Hi! I'm Felipe Lima 👋
 
-- Eu ❤️ resolver grandes desafios usando tecnologias.
+- Eu ❤️ resolver grandes desafios usando a tecnologia.
 - Sou desenvolvedor Front-end & UI/UX Designer.
 
 <div  align="center" style="margin-bottom:100px">
