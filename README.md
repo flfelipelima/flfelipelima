@@ -1,7 +1,7 @@
 ## Hi! I'm Felipe Lima 👋
 
 ### About me
--I'm Front End Developer and UI/UX Designer. I solve big <strong>challenges</strong> using technology.
+- Cientista da Computação
 
 
 <div  align="center" style="margin-bottom:100px">
