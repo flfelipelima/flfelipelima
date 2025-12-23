@@ -1,16 +1,8 @@
 ## Hi! I'm Felipe Lima 👋
 
 ### About me
-- Cientista da Computação
-
-
-<div  align="center" style="margin-bottom:100px">
-
-<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=flfelipelima&theme=white&border_radius=5&locale=pt_BR" />
-</div>
-
-<br><br><br><br><br><br><br><br><br><br>
-
+Sou um profissional de TI apaixonado por tecnologia, com experiência em suporte técnico e foco no desenvolvimento de carreira em Segurança da Informação. Tenho um perfil resiliente, adaptável e orientado à solução de problemas, sempre buscando transformar desafios em oportunidades de crescimento. Desde sempre, sou movido pela curiosidade de entender como as coisas funcionam, e a Ciência da Computação se tornou o universo perfeito para essa exploração. Para mim, não se trata apenas de códigos e sistemas, mas de resolver quebra-cabeças lógicos e encontrar a ordem no caos.
+   
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,python,ps,wordpress)
 
 ### Studying in this moment:
