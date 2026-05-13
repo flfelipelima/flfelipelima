@@ -1,24 +1,56 @@
-## Hi! I'm Felipe Lima 👋
+<div align="center">
 
-### About me
-Sou um profissional de TI apaixonado por tecnologia, com experiência em suporte técnico e foco no desenvolvimento de carreira em Segurança da Informação. Tenho um perfil resiliente, adaptável e orientado à solução de problemas, sempre buscando transformar desafios em oportunidades de crescimento. Desde sempre, sou movido pela curiosidade de entender como as coisas funcionam, e a Ciência da Computação se tornou o universo perfeito para essa exploração. Para mim, não se trata apenas de códigos e sistemas, mas de resolver quebra-cabeças lógicos e encontrar a ordem no caos.
-   
-![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,python,ps,wordpress)
+<img src="https://raw.githubusercontent.com/flfelipelima/flfelipelima/refs/heads/main/banner.png" alt="Felipe Lima" width="100%" />
 
-### Studying in this moment:
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-@felipelima-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipelima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flfelipelima/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipelimart@gmail.com)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cdefb-6987-72c2-9c34-0baacdff05fc)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-l1m4-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/l1m4)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### Workstation Tools:
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 
-### Contacts:
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<div> 
-<a href = "mailto:mota.felipelima@gmail.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flfelipelima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>&nbsp;&nbsp;
+## 🧠 Sobre mim
+
+Sou um profissional de TI com experiência com **suporte técnico**, resolução de problemas e ambientes tecnológicos, e atualmente direciono meus estudos e projetos para **Segurança da Informação**, **redes**, **Linux** e **automação**.
+
+Acredito que tecnologia é sobre entender o que acontece nos bastidores. Gosto de investigar, testar, quebrar problemas em partes menores e encontrar soluções eficientes. 
+
+Tenho um perfil **resiliente, analítico, adaptável e orientado a soluções**. Estou sempre buscando transformar conhecimento em prática, criando projetos, estudando novas ferramentas e construindo uma base sólida para atuar com segurança, infraestrutura e desenvolvimento técnico.
+
+</td>
+<td width="40%" valign="top">
+
+## 🎯 Foco atual
+
+| Tema | Objetivo |
+|---|---|
+| Security+ | Fortalecer fundamentos em segurança |
+| CEH | Aprofundar conhecimentos em segurança ofensiva |
+| Networking | Melhorar domínio de redes e protocolos |
+| Linux | Administração, automação e ambientes técnicos |
+| Docker | Containers, imagens e ambientes reproduzíveis |
+
+</td>
+
+
+
+
