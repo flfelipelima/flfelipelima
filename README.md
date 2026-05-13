@@ -52,5 +52,27 @@ Tenho um perfil **resiliente, analítico, adaptável e orientado a soluções**.
 </td>
 
 
+<table>
 
+  ## 🚀 Projetos em destaque
+  <tr>
+    <td width="60%" valign="top">
+
+<h3 align="left">Leviathan OffSec</h3>
+
+<p align="left">
+  O <strong>Leviathan</strong> é um projeto voltado para criação de um ambiente técnico de estudos, prática e produtividade em 
+  <strong>Segurança Ofensiva</strong>, utilizando Docker, Linux, ferramentas de linha de comando e organização de workspace para laboratórios.
+</p>
+
+<p align="left">
+  A proposta do projeto é facilitar a criação de um ambiente reproduzível para estudos de cibersegurança, automação, análise, testes controlados e uso de ferramentas ofensivas em um container preparado para produtividade.
+</p>
+
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/flfelipelima/leviathanOffSec/refs/heads/main/assets/leviathan.png" alt="Felipe Lima" width="80%" />
+
+  
+</td>
 
